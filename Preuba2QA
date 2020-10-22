@@ -1,0 +1,43 @@
+II.- Prueba Practica:
+A continuación, se mencionan las funcionalidades o componentes de una aplicación, donde deberás elaborar las Historias de Usuario, y los Casos de Prueba, estos deben ser enviados al correo electrónico: ext_emarquezb@falabella.cl, con copia al correo ascatrileop@Falabella.cl
+
+La aplicación debe contar con las siguientes funcionalidades o componentes para la compra de zapatos online (Master Shoe):
+
+
+1. Pantalla de login
+Los usuarios que desean hacer uso de la aplicación deben acceder a través de un usuario y contraseña. En esta pantalla la aplicación debe mostrar la opción de:
+-    Acceder a través del formulario de login de la aplicación llenando el usuario (email) y contraseña (8 caracteres). 
+-    Debe mostrar la opción de recuperar la contraseña.
+
+
+2. Menú de Navegación
+Después que el usuario este logueado, la aplicación debe mostrar un menú de navegación:
+
+
+  2.1. Ubica tu tienda más cercana
+En este menú la aplicación debe mostrar todas las tiendas de Master Shoe. La aplicación debe permitir dos formas diferentes de mostrar las tiendas:
+         1. Mapa con todas las tiendas de Master Shoe.
+         2. Lista con todas las tiendas de Master Shoe.
+Cuando se presiona sobre una tienda Master Shoe ya sea desde el mapa o desde la lista, la aplicación debe mostrar la información de la tienda (Ubicación, horarios de atención y datos de contactos).
+
+
+   2.2. Zapatos
+En este menú la aplicación debe mostrar todos los zapatos a la venta con la siguiente información:
+-    Fotos
+-    Marca
+-    Tallas
+-    Color
+
+Debe existir un filtro o búsqueda por:
+-    Marca
+-    Tallas
+
+Cuando el usuario presione sobre un zapato debe mostrar el detalle del zapato:
+-    Fotos
+-    Marca
+-    Talla
+-    Color
+-    Costo
+-    Tienda con disponibilidad
+
+Con la opción o botón de “Comprar”.
